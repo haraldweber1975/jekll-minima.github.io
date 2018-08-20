@@ -28,8 +28,6 @@ github_username:  haraldweber1975
 markdown: kramdown
 
 theme: minima
-#theme: jekyll-athena
-#theme: jekyll-theme-time-machine
 
 plugins:
   - jekyll-feed
